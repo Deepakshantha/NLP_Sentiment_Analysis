@@ -18,3 +18,25 @@ The project covers the complete ML pipeline from text preprocessing to model eva
 *Model Evaluation using multiple metrics
 
 *Cross Validation for performance stability
+
+## Technologies Used
+
+*Python
+
+*NLP (NLTK / spaCy / Scikit-learn)
+
+*Machine Learning (Scikit-learn)
+
+*Pandas & NumPy
+
+## Project Workflow
+
+*Text Preprocessing
+
+*Text Cleaning
+
+*Feature Extraction
+
+*Sentiment Analysis Models
+
+*Multi-label Topic Classification
