@@ -8,8 +8,13 @@ The project covers the complete ML pipeline from text preprocessing to model eva
 ## Features
 
 *Text Preprocessing and Cleaning
+
 *Feature Extraction using NLP techniques
+
 *Sentiment Classification
+
 *Multi-label Topic Classification
+
 *Model Evaluation using multiple metrics
+
 *Cross Validation for performance stability
